@@ -4,3 +4,6 @@ The entire Pro Git book, written by Scott Chacon and Ben Straub and published by
 
 The version found here has been updated with corrections and additions from hundreds of contributors. If you see an error or have a suggestion, patches and issues are welcome in its GitHub repository.
 
+As with many great things in life, Git began with a bit of creative destruction and fiery controversy.
+The Linux kernel is an open source software project of fairly large scope. During the early years of the Linux kernel maintenance (1991–2002), changes to the software were passed around as patches and archived files. In 2002, the Linux kernel project began using a proprietary DVCS called BitKeeper.
+
