@@ -7,3 +7,9 @@ TD1 Advanced Python for bloomberg
 #miaou
 #miaou
 #miaou
+#bjr la team
+#bjr la team
+#bjr la team
+#bjr la team
+#bjr la team
+
