@@ -1,15 +1,10 @@
 # TD1
 TD1 Advanced Python for bloomberg
+
 #miaou
-#miaou
-#miaou
-#miaou
-#miaou
-#miaou
-#miaou
+
 #bjr la team
-#bjr la team
-#bjr la team
-#bjr la team
-#bjr la team
+
+
+Test merging
 
